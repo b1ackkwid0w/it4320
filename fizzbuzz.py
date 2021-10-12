@@ -8,7 +8,6 @@ def main():
 
     #adding program description and start control
     print('FizzBuzz Numbers: ')
-    print('\n')
         
     #fizzbuzz numbers
     for n in range ( 1, 101 ): #looping thru numbers 1-100
